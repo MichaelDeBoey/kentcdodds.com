@@ -13,6 +13,8 @@
   resources:
     - '[article](https://www.epicproduct.engineer/the-last-software-engineer)'
   deliveries:
+    - event: '[AI Coding Summit](https://aicodingsummit.com/)'
+      date: 2026-07-06
     - event:
         '[WeAreDevelopers World
         Congress](https://www.wearedevelopers.com/world-congress)'
